@@ -1,0 +1,20 @@
+# Blender
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+*.py[cod]
+# Roblox / temporary
+*.rbxl
+*.lock
+*.tmp
+*.log
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Secrets
+.env
+.env.*
+!.env.example
