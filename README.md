@@ -16,10 +16,11 @@
 2. [결정 기록](00_PROJECT/DECISIONS_LOG.md)
 3. [로드맵](00_PROJECT/ROADMAP.md)
 4. [세계관](01_WORLD/WORLD_SETTING.md)
-5. [캠페인](02_STORY/CAMPAIGN_OVERVIEW.md)
-6. [플레이어 캐릭터](03_CHARACTERS/PLAYER_CHARACTER.md)
-7. [게임 모드](04_GAMEPLAY/GAME_MODES.md)
-8. [개발 도구 및 협업](10_TECHNICAL/TOOLS_AND_WORKFLOW.md)
+5. [원작 설정 참고 분석](01_WORLD/ORIGINAL_SETTING_REFERENCE.md)
+6. [캠페인](02_STORY/CAMPAIGN_OVERVIEW.md)
+7. [플레이어 캐릭터](03_CHARACTERS/PLAYER_CHARACTER.md)
+8. [게임 모드](04_GAMEPLAY/GAME_MODES.md)
+9. [개발 도구 및 협업](10_TECHNICAL/TOOLS_AND_WORKFLOW.md)
 
 ## 설정 상태 표기
 - **CONFIRMED**: 현재 대화에서 사용자가 선택하거나 명시한 임시 결정
