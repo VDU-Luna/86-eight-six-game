@@ -1076,3 +1076,8 @@
 - 플레이어의 대표 Feldress 한 대만 전시: CONFIRMED
 - 다른 보유 Feldress는 배경에 추가 전시하지 않음: CONFIRMED
 - 대표 Feldress 변경 시 전시 기체 변경: PROPOSED
+
+
+### 메인 메뉴 플레이어 캐릭터 자세
+- Feldress 옆에 자연스럽게 서 있는 기본 대기 자세: CONFIRMED
+- 대기 애니메이션, 시선 방향 및 미세 동작: PENDING
