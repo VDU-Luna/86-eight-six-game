@@ -1071,3 +1071,8 @@
 - 대표 Feldress를 정비 플랫폼 위에 배치: CONFIRMED
 - 기체 주변에 정비 장비와 정비 작업 흔적 배치: CONFIRMED
 - 플랫폼 형태, 장비 종류/배치, 정비 인력/NPC, 애니메이션 및 상호작용 여부: PENDING
+
+### 메인 메뉴 정비고 전시 기체 수
+- 플레이어의 대표 Feldress 한 대만 전시: CONFIRMED
+- 다른 보유 Feldress는 배경에 추가 전시하지 않음: CONFIRMED
+- 대표 Feldress 변경 시 전시 기체 변경: PROPOSED
