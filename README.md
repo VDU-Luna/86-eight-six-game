@@ -11,16 +11,21 @@
 - 공식 설계 기준: 이 GitHub 저장소
 - 기획 문서 상태: 임시 초안
 
-## 문서 읽는 순서
-1. [마스터 기획서](00_PROJECT/MASTER_GDD.md)
-2. [결정 기록](00_PROJECT/DECISIONS_LOG.md)
-3. [로드맵](00_PROJECT/ROADMAP.md)
-4. [세계관](01_WORLD/WORLD_SETTING.md)
-5. [원작 설정 참고 분석](01_WORLD/ORIGINAL_SETTING_REFERENCE.md)
-6. [캠페인](02_STORY/CAMPAIGN_OVERVIEW.md)
-7. [플레이어 캐릭터](03_CHARACTERS/PLAYER_CHARACTER.md)
-8. [게임 모드](04_GAMEPLAY/GAME_MODES.md)
-9. [개발 도구 및 협업](10_TECHNICAL/TOOLS_AND_WORKFLOW.md)
+## 문서 읽는 순서 및 기준
+1. [마스터 기획서](00_PROJECT/MASTER_GDD.md) — 현재 유효한 통합 결정(SSOT)
+2. [상세 기획 백로그](00_PROJECT/PLANNING_BACKLOG.md) — 미정 항목과 현재 진행 순서
+3. [알파 로드맵](00_PROJECT/ROADMAP.md) — 알파 범위와 단계별 진행
+4. [결정 기록](00_PROJECT/DECISIONS_LOG.md) — 과거 선택·정정의 시간순 이력
+5. [개발 규칙](00_PROJECT/DEVELOPMENT_RULES.md)
+6. [세계관](01_WORLD/WORLD_SETTING.md)
+7. [원작 설정 참고 분석](01_WORLD/ORIGINAL_SETTING_REFERENCE.md)
+8. [캠페인](02_STORY/CAMPAIGN_OVERVIEW.md)
+9. [플레이어 캐릭터](03_CHARACTERS/PLAYER_CHARACTER.md)
+10. [게임 모드](04_GAMEPLAY/GAME_MODES.md)
+11. [기술·UI·맵·자산·테스트 문서](07_TECHNICAL/README.md 등)
+12. [개발 도구 및 협업](10_TECHNICAL/TOOLS_AND_WORKFLOW.md)
+
+문서가 서로 충돌하면 MASTER_GDD.md의 현재 통합 결정이 우선합니다. DECISIONS_LOG.md와 백로그의 날짜별 기록은 과거 진행 상황을 보존하므로, 과거 문장이나 체크박스를 현재 규칙으로 단독 해석하지 않습니다.
 
 ## 설정 상태 표기
 - **CONFIRMED**: 현재 대화에서 사용자가 선택하거나 명시한 임시 결정
